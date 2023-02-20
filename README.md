@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/Yasodya12/count.svg" />
 </p>
 <h1 align="center">Hi 👋, I'm Rishika</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">Still a Undergraduate and living in down south Sri Lanka</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
