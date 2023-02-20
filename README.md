@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center"> 
   Visitor count<br>
-  <img src="https://github.com/Yasodya12/count.svg" />
+  <img src="https://profile-counter.glitch.me/Yasodya12/count.svg" />
 </p>
 <!--
 **Yasodya12/Yasodya12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
