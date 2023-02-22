@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Rishika</h1>
+<h1 align="center">Hi, Itz me Rishika</h1>
 <h3 align="center">Still a Undergraduate and living in down south Sri Lanka</h3>
 
 <h3 align="left">Connect with me:</h3>
