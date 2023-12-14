@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rishikayasodya12@gmail.com**
 
-- ⚡ Fun fact **Trying to be a full time gamer part time coder👊**
+- ⚡ Fun fact **Trying to be a full time gamer, Part time coder👊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
